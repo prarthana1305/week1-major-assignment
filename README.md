@@ -94,8 +94,7 @@ It includes a structured layout for **navigation, hero section, features, benefi
 
 ---
 
-##  **Key Features**
-**Fully Responsive Design**  
+##  **Key Features**  
 **Modern UI with Flexbox**  
 **Smooth Hover Effects & Animations**  
 **Optimized for Performance & Readability**  
